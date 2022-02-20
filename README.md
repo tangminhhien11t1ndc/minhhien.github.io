@@ -37,11 +37,9 @@
 							<p class="sayHi">Hello</p>
 
 							<div class="name">
-								<p><span>I'm</span> Lmint</p>
 								<p class="s">Verified
 									<span class="ion-ios-checkmark-outline"></span>
 								</p>
-								<p><span class="ion-android-globe"></span> AnonyViet.com</p>
 							</div>
 							<hr>
 
