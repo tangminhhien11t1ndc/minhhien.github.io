@@ -167,7 +167,7 @@
       </div> <!-- End Education -->
 
 
-    /*  <!-- Work
+      <!-- Work
       ----------------------------------------------- -->
       <div class="row work">
 
@@ -210,7 +210,7 @@
 
          </div> <!-- main-col end -->
 
-      </div> <!-- End Work -->*/
+      </div> <!-- End Work -->
 
 
       <!-- Skills
@@ -244,7 +244,7 @@
    </section> <!-- Resume Section End-->
 
 
-  /* <!-- Portfolio Section
+   <!-- Portfolio Section
    ================================================== -->
    <section id="portfolio">
 
@@ -395,10 +395,10 @@
 
             </div> <!-- portfolio-wrapper end -->
 
-         </div> <!-- twelve columns end -->  */
+         </div> <!-- twelve columns end -->  
 
 
-         /*<!-- Modal Popup
+         <!-- Modal Popup
 	      --------------------------------------------------------------- -->
 
          <div id="modal-01" class="popup-modal mfp-hide">
@@ -540,7 +540,7 @@
 
       </div> <!-- row End -->
 
-   </section> <!-- Portfolio Section End-->*/
+   </section> <!-- Portfolio Section End-->
 
 
    <!-- Call-To-Action Section
